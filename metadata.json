@@ -1,0 +1,7 @@
+{
+  "name": "Udhaar Tracker",
+  "description": "Digital Udhaar Khata and credit ledger for Pakistani shopkeepers with real-time multi-device sync by Shop Code, live balance tracking, and customer records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
